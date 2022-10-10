@@ -1,6 +1,8 @@
 #NAME ARCHIVOS TV
 #SERVICE 1:64:1:0:0:0:0:0:0:0:::::::GENERALISTAS::
 #DESCRIPTION :::::GENERALISTAS::
+#SERVICE 4097:0:1:435:0:0:0:0:0:0:https%3a//europa-crtvg.flumotion.com/playlist.m3u8:TVG
+#DESCRIPTION TVG
 #SERVICE 4097:0:1:9:0:0:0:0:0:0:https%3a//streaming003.gestec-video.com/hls/eltoro_bal.m3u8:El Toro TV
 #DESCRIPTION El Toro TV
 #SERVICE 1:0:19:7863:41A:1:C00000:0:0:0:
